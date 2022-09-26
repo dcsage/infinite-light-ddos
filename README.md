@@ -1,2 +1,19 @@
 # infinite-light-ddos
 Infinitely ddos a site with a 20gbps stresser
+# Usage
+
+- Sign up for an account at https://cryptostresser.com/ (30 seconds literally)
+- normally you have to re-start the attack every 180 seconds, this can be stressful and hard to keep track of.
+
+- This will automatically restart the attack on the desired user without intefering with work you're currently doing
+- it will stay minimised and make sure your attack is constantly going
+
+- it has a 20 GBPS capacity
+
+# setup
+
+- make sure you install selenium chrome driver here: https://chromedriver.chromium.org/downloads
+- put it in the same folder as your main file
+- double click main.py :)
+
+you must do these in your cmd prompt:
