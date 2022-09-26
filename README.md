@@ -17,3 +17,9 @@ Infinitely ddos a site with a 20gbps stresser
 - double click main.py :)
 
 you must do these in your cmd prompt:
+
+- pip install selenium
+- pip install requests
+- pip install colorama
+
+Anyway, its pretty useful as it'll do everything, and you can keep it minimised so it wont intefere with work.
