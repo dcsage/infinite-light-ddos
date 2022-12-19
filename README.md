@@ -1,3 +1,8 @@
+# FBI 
+
+the fbi have seized https://cryptostresser.com 
+this will no longer work
+
 # infinite-light-ddos
 Infinitely ddos a site with a 20gbps stresser
 # Usage
